@@ -16,6 +16,9 @@
     --font-family-roboto: "Roboto", Helvetica;
 }
 
+button{
+  border: none;
+}
 
 .screen textarea:focus,
 .screen input:focus {
